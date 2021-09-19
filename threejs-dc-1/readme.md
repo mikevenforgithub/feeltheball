@@ -3,6 +3,10 @@
  This small project is to show the functionalities and potential 
  of the Three.js Library to developer responsive 3D images, and integrate them
  with website projects frontened interface.  
+ 
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
 
 
 ``` bash
@@ -20,9 +24,7 @@ npm run build
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+
 
 
 ```
